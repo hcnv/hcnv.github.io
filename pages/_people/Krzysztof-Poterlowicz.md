@@ -20,10 +20,10 @@ tags:
 
 ## {{page.title}}
 
-Elixir-Uk Training Co-ordinator  
+ 
 Senior Lecturer in Bioinformatics and Biostatistics
-University of Bradfordy - UK  
-ELIXIR-UK
+University of Bradford, ELIXIR-UK  
+Elixir-UK Training Coordinator
 
 <!--more-->
 
