@@ -9,6 +9,7 @@ date: 2024-05-16
 pdf_file_name:
 links:
   - '[ELIXIR event page](https://elixir-europe.org/events/elixir-hcnv-community-making-complex-genomics-accessible)'
+  - '[Slides part 1 and 4](/pdf/2024-05-16___Michael-Baudis__Progenetix-and-Beacon__ELIXIR-hCNV-webcast.pdf'
 ---
 
 #### Michael Baudis, Antonio Rausell & Krzysztof Poterlowicz 
