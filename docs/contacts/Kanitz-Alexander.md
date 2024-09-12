@@ -13,4 +13,4 @@ name_tag: kanitz_a
 #### Links
 
 * email: [alexander.kanitz@unibas.ch](mailto:alexander.kanitz@unibas.ch)
-* web: [Biozentrum](http://www.biozentrum.unibas.ch/)
+* web: [Biozentrum](https://www.biozentrum.unibas.ch/)

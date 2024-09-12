@@ -13,7 +13,7 @@ encoding of CNV data.
 
 ## Ontology of bioscientific data analysis and data management (EDAM)
 
-* [Copy number variation detection](http://edamontology.org/operation_3961) and
+* [Copy number variation detection](https://edamontology.org/operation_3961) and
 child terms
   - contributed by David Salgado
 
@@ -22,14 +22,14 @@ child terms
 ### Genomic array types
 
 Terms for genomic array types used in CNV detection were added to the existing
-[DNA array](http://www.ebi.ac.uk/efo/EFO_0002701) concept (Michael Baudis):
+[DNA array](https://www.ebi.ac.uk/efo/EFO_0002701) concept (Michael Baudis):
 <!--more-->
 
-* large-insert clone DNA microarray ([EFO:0010938](http://www.ebi.ac.uk/efo/EFO_0010938))
-* oligonucleotide DNA microarray ([EFO:0010939](http://www.ebi.ac.uk/efo/EFO_0010939))
-* SNP array ([EFO:0002703](http://www.ebi.ac.uk/efo/EFO_0002703))
+* large-insert clone DNA microarray ([EFO:0010938](https://www.ebi.ac.uk/efo/EFO_0010938))
+* oligonucleotide DNA microarray ([EFO:0010939](https://www.ebi.ac.uk/efo/EFO_0010939))
+* SNP array ([EFO:0002703](https://www.ebi.ac.uk/efo/EFO_0002703))
   - the term existed but was re-assigned as child of EFO:0010939
-* oligonucleotide DNA microarray ([EFO:0010939](http://www.ebi.ac.uk/efo/EFO_0010939))
+* oligonucleotide DNA microarray ([EFO:0010939](https://www.ebi.ac.uk/efo/EFO_0010939))
 
 ### Relative copy number changes
 

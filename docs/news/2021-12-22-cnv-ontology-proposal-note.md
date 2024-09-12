@@ -25,7 +25,7 @@ live on January 21.
 Everybody is welcome to contribute to the editing of the proposal at the SO & VRS Github repositories!
 
 
-#### 2021-01-21: `copy number assessment` term tree now [live on EFO](http://www.ebi.ac.uk/efo/EFO_0030063)
+#### 2021-01-21: `copy number assessment` term tree now [live on EFO](https://www.ebi.ac.uk/efo/EFO_0030063)
 
 The `copy number assessment` term tree has been accepted into the Experimental Factor Ontology and can be used for referencing CNV types. 
 

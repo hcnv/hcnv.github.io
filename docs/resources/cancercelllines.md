@@ -14,6 +14,6 @@ The Cancercelllines genomic information resource contains genome profiling data,
 
 <!--more-->
 
-_cancercelllines.org_ is implemented on top of a [`bycon`](http://bycon.progenetix.org)
-software stack with full support for the [Beacon v2](http://docs.genomebeacons.org)
+_cancercelllines.org_ is implemented on top of a [`bycon`](https://bycon.progenetix.org)
+software stack with full support for the [Beacon v2](https://docs.genomebeacons.org)
 GA4GH standard.

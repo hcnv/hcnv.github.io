@@ -6,4 +6,4 @@ excerpt_link: 'https://info.baudisgroup.org/group/Ziying_Yang/'
 ---
 
 * [Department of Molecular Life Sciences](https://info.baudisgroup.org/group/Ziying_Yang/), University of Zurich
-* [Progenetix](http://progenetix.org) project
+* [Progenetix](https://progenetix.org) project

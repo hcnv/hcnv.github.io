@@ -6,4 +6,4 @@ excerpt_link: 'https://info.baudisgroup.org/group/Hangjia_Zhao/'
 ---
 
 * [Department of Molecular Life Sciences](https://info.baudisgroup.org/group/Hangjia_Zhao/), University of Zurich
-* [Progenetix](http://progenetix.org) project
+* [Progenetix](https://progenetix.org) project

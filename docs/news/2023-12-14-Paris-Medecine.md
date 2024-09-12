@@ -9,9 +9,9 @@ date: 2023-12-14
 pdf_file_name:
 links:
   - '[Seminar slides](/pdf/2023-12-14___Michael-Baudis__Beaconize-This__Seminar-Institut-Imagine-Paris.pdf)'
-  - "[Progenetix cancer genomics resource](http://progenetix.org)"
+  - "[Progenetix cancer genomics resource](https://progenetix.org)"
   - '[`bycon` software project](https://github.com/progenetix/bycon/)'
-  - "[Beacon documentation](http://docs.genomebeacons.org)"
+  - "[Beacon documentation](https://docs.genomebeacons.org)"
   - '[ELIXIR hCNV Community](https://cnvar.org)'
 ---
 

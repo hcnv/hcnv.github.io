@@ -11,7 +11,7 @@ tags:
 
 ## {{page.title}}
 
-The [website](http://hcnv.github.io) of the _Human Copy Number Variation Community_ (hCNV) is a resource originating in ELIXIR's h-CNV Community Implementation Study (2019-2021).
+The [website](https://hcnv.github.io) of the _Human Copy Number Variation Community_ (hCNV) is a resource originating in ELIXIR's h-CNV Community Implementation Study (2019-2021).
 
 Genomic variants are the basis of individual variations in human phenotypes and susceptibility to a large variety of diseases. Inherited variants can be the cause for syndromic or "rare" diseases, while neoplastic diseases ("cancer") arise from the accumulation of genomic variants in body tissues ("somatic mutations"), during the lifetime of an individual but sometimes associated with pre-disposing, inherited genome variations.
 

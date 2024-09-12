@@ -14,4 +14,4 @@ name_tag: cezard_t
 
 * email: tcezard [at] ebi.ac.uk
 * web: [EBI](https://www.ebi.ac.uk/about/people/timothee-cezard)
-* ORCID iD: [0000-0002-5626-270X](http://europepmc.org/search?query=AUTHORID:%220000-0002-5626-270X%22&sortby=Date)
+* ORCID iD: [0000-0002-5626-270X](https://europepmc.org/search?query=AUTHORID:%220000-0002-5626-270X%22&sortby=Date)
