@@ -34,7 +34,7 @@ This table is maintained in parallel with the [Beacon v2 documentation](https://
 | [`EFO:0020073`](https://www.ebi.ac.uk/efo/EFO_0020073) high-level copy number loss  | `DEL`[^2] or<br/><nobr>[`EFO:0020073`](https://github.com/EBISPOT/efo/issues/1941)</nobr> | `DEL`<br/><nobr>`SVCLAIM=D`[^3]</nobr> | [`SO:0001743`](https://www.sequenceontology.org/browser/current_release/term/SO:0001743) copy_number_loss | high-level loss | <nobr>[`EFO:0020073`](https://github.com/EBISPOT/efo/issues/1941)</nobr> high-level loss  | a loss of several copies; also used in cases where a complete genomic deletion cannot be asserted |
 | [`EFO:0030069`](https://www.ebi.ac.uk/efo/EFO_0030069) complete genomic deletion   | `DEL`[^2] or<br/><nobr>[`EFO:0030069`](https://www.ebi.ac.uk/efo/EFO_0030069)</nobr> | `DEL`<br/><nobr>`SVCLAIM=D`[^3]</nobr> | [`SO:0001743`](https://www.sequenceontology.org/browser/current_release/term/SO:0001743) copy_number_loss | complete genomic loss | <nobr>[`EFO:0030069`](https://www.ebi.ac.uk/efo/EFO_0030069)</nobr> complete genomic loss   | complete genomic deletion (e.g. homozygous deletion on a bi-allelic genome region)                                          |
 
-##### Last updated 2023-03-22 by @mbaudis (VRS 1.3 adjustment)
+##### Last updated 2025-08-08 by @mbaudis (VRS 2 adjustment)
 ##### updated 2023-03-22 by @mbaudis (EFO:0020073) & 2023-03-20 by @mbaudis (VRS proposal)
 
 ## ISCN
