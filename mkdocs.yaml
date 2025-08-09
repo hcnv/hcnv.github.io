@@ -15,7 +15,7 @@ nav:
   - h-CNV Projects: implementation-studies
   - CNV Annotation Standards: resources/CNV-annotation-standards
   - Databases & Resources: resources
-  - CNV References Project: /cnv-reference-resources/
+  # - CNV References Project: resources
   - Contacts: contacts
   - h-CNV @ ELIXIR: 'https://elixir-europe.org/communities/human-copy-number-variation'
   - Beacon Project: 'https://genomebeacons.org'
@@ -81,7 +81,6 @@ theme:
 plugins:
     - search
     - macros
-    # - mermaid2
 
 extra:
   news:
@@ -107,7 +106,4 @@ extra:
       link: https://github.com/hCNV
 extra_css:
   - css/theme_overrides.css
-# extra_javascript:
-  # - https://unpkg.com/mermaid/dist/mermaid.min.js
-  # - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
     
