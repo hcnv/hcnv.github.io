@@ -2,6 +2,7 @@
 title: "Hangjia Zhao"
 description: h-CNV Community Contributor
 is_contact: false
+is_gone: true
 excerpt_link: 'https://info.baudisgroup.org/group/Hangjia_Zhao/'
 ---
 
