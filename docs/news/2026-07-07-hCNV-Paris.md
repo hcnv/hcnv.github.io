@@ -14,6 +14,7 @@ links:
 
 During this very hot July members of the ELIXIR hCNV community and guests
 met at the [Institut Imagine](https://www.institutimagine.org/en) in Paris, hosted by our co-lead [Antonio Rausell](/contacts/Rausell-Antonio/).
+
 <!-- The ELIXIR hCNV community was a guest at the Rare Disease community meeting in
 Bologna on May 15, 2025. The hCNV community presented an overview of its activities
 and several members gave talks on specific topics related to their activities in 
