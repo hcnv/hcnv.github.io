@@ -14,8 +14,11 @@ discovery.
 <!--more-->
 
 **Date:** 3 September 2026
+
 **Time:** 09:30 - 15:00 (CEST, UTC+2)
+
 **Location:** Campus Biotech, Geneva, Switzerland
+
 **Room:** H4.02-A
 
 The session will address challenges arising from heterogeneous variant data
@@ -32,9 +35,9 @@ barriers, open questions and future directions.
 No prior GA4GH experience is required, the workshop is open to all interested
 participants.
 
-[Registration is free](https://forms.gle/jLagP5Z81faAjXPR9). For any questions
-about the workshop, please contact
-[anais.mottaz@hesge.ch](mailto:anais.mottaz@hesge.ch).
+Registration (free): [register](https://forms.gle/jLagP5Z81faAjXPR9).
+
+For any questions about the workshop, please contact [anais.mottaz@hesge.ch](mailto:anais.mottaz@hesge.ch).
 
 #### Speakers
 
