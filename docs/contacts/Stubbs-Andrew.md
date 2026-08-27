@@ -1,8 +1,7 @@
 ---
-title: "Michael Baudis"
+title: Andrew Stubbs
 description: ELIXIR h-CNV Community Co-Lead
 is_contact: true
-excerpt_link: 'https://info.baudisgroup.org/group/Michael-Baudis/'
 geo:
   geo_long: 8.548411965
   geo_lat: 47.39832069

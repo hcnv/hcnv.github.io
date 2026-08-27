@@ -3,6 +3,7 @@ title: "Christophe Béroud"
 description: ELIXIR h-CNV Community Co-Lead
 is_contact: false
 name_tag: beroud_c
+is_gone: true
 ---
 
 * Professor of Human Genetics  
