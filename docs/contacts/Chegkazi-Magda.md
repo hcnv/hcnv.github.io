@@ -1,5 +1,5 @@
 ---
-title: Daniel Barrowdale
+title: Magda Chegkazi
 description: ELIXIR Communities Coordinator
 is_contact: true
 ---
@@ -8,5 +8,5 @@ is_contact: true
 
 #### Links
 
-* email [daniel.barrowdale@elixir-europe.org](mailto:daniel.barrowdale@elixir-europe.orgg)  
+* email [magda.chegkazi@elixir-europe.org](mailto:magda.chegkazi@elixir-europe.org)  
 * web [ELIXIR](https://elixir-europe.org/about-us/who-we-are/hub)  
