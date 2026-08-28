@@ -2,7 +2,7 @@
 title: "Alexander Kanitz"
 description: h-CNV Community Contributor
 is_contact: false
-name_tag: kanitz_a
+
 ---
 
 * Postdoctoral Researcher  

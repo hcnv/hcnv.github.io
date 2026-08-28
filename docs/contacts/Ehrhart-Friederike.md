@@ -2,7 +2,7 @@
 title: "Friederike (Freddie) Ehrhart"
 description: h-CNV Community Contributor
 is_contact: false
-name_tag: ehrhart_f
+
 ---
 
 * assistant professor

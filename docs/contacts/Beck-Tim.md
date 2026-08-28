@@ -2,7 +2,7 @@
 title: "Tim Beck"
 description: h-CNV Community Contributor
 is_contact: false
-name_tag: beck_t
+
 ---
 
 * Lecturer in Bioinformatics, University of Leicester

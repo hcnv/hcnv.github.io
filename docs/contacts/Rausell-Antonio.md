@@ -2,7 +2,7 @@
 title: "Antonio Rausell"
 description: h-CNV Community Contributor
 is_contact: true
-name_tag: rausell_a
+
 ---
 
 * Co-lead h-CNV community

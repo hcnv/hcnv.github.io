@@ -2,7 +2,7 @@
 title: "Björn Grüning"
 description: h-CNV Community Contributor
 is_contact: false
-name_tag: gruening_b
+
 ---
 
 

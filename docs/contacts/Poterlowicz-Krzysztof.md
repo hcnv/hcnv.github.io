@@ -2,7 +2,7 @@
 title: "Krzysztof Poterlowicz"
 description: Elixir-UK Training Co-ordinator
 is_contact: true
-name_tag: poterlowicz_k
+
 ---
 
 * Co-lead h-CNV community

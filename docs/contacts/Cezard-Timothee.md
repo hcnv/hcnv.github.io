@@ -2,7 +2,7 @@
 title: "Timothee Cezard"
 description: h-CNV Community Contributor
 is_contact: false
-name_tag: cezard_t
+
 ---
 
 * EMBL-EBI  
