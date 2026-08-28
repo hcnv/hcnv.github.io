@@ -12,11 +12,11 @@ edit_uri: edit/main/docs/
 nav:
   - Homepage & News: /
   - About ...: about
+  - Community: contacts
   - h-CNV Projects: implementation-studies
   - CNV Annotation Standards: resources/CNV-annotation-standards
   - Databases & Resources: resources
   # - CNV References Project: resources
-  - Contacts: contacts
   - h-CNV @ ELIXIR: 'https://elixir-europe.org/communities/human-copy-number-variation'
   - Beacon Project: 'https://genomebeacons.org'
 
